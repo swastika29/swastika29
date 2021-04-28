@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on any exciting project
-- 📫 How to reach me dm me on my insta profile @swastika._.bisht
+- 📫 How to reach me email me at bishtswastika@gmail.com
 
 <!---
 swastika29/swastika29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
